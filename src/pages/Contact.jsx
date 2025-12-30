@@ -98,7 +98,7 @@ const Contact = () => {
           allowFullScreen=""
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-          title="S R Legal Services Map"
+          title="Switzerland Map"
         ></iframe>
       </section>
 
