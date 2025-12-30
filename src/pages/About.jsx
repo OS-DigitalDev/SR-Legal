@@ -10,7 +10,7 @@ const About = () => {
       <section className="about-hero">
         <div className="overlay"></div>
         <div className="hero-content">
-          <h1>About <span>S R Legal Services</span></h1>
+          <h1>About <span>Wazariyo Services</span></h1>
           <p>Established in 2014 — Serving Financial Institutions Across Rajasthan</p>
         </div>
       </section>
@@ -21,7 +21,7 @@ const About = () => {
           <div className="text">
             <h2>Our Story</h2>
             <p>
-              Founded in 2014, <strong>S R Legal Services Pvt. Ltd.</strong> has emerged as a
+              Founded in 2002, <strong>Wazariyo Services Pvt. Ltd.</strong> has emerged as a
               leading loan recovery company in Rajasthan. We specialize in providing
               comprehensive debt recovery solutions to banks and NBFCs.
             </p>
@@ -55,19 +55,19 @@ const About = () => {
         <div className="leaders">
           <div className="leader-card">
             <div className="icon"><i className="fas fa-user-tie"></i></div>
-            <h3>Rajesh Bhawaria</h3>
+            <h3>Wazariyo</h3>
             <p>Owner</p>
           </div>
           <div className="leader-card">
             <div className="icon"><i className="fas fa-user-tie"></i></div>
-            <h3>Sushila</h3>
+            <h3>Orion</h3>
             <p>Owner</p>
           </div>
-          {/* <div className="leader-card">
+          <div className="leader-card">
             <div className="icon"><i className="fas fa-laptop"></i></div>
             <h3>CP Sharma</h3>
             <p>IT Manager</p>
-          </div> */}
+          </div>
           
          
         </div>
@@ -80,17 +80,17 @@ const About = () => {
           <div className="office-card">
             <h3>Head Office - Jaipur</h3>
             <p>
-              <strong>S R Legal Services Pvt. Ltd.</strong><br />
-              Kharbas Complex, Sirsi Road,<br />
-              Panchyawala, Jaipur, Rajasthan - 302034
+              <strong>Wazariyo Services Pvt. Ltd.</strong><br />
+              Orion Tower, Wazariyo Road,<br />
+              atMyPlace, Jaipur, Rajasthan - 000000
             </p>
           </div>
           <div className="office-card">
             <h3>Second Main Office - Jaipur</h3>
             <p>
-              302, 3rd Floor, Vinayak Enclave,<br />
-              Nursery Circle, Vaishali Nagar,<br />
-              Jaipur, Rajasthan
+              302, Wazariyo Tower<br />
+              Orion Circle, AtMyPlace,<br />
+              Jaipur, Rajasthan 000000
             </p>
           </div>
         </div>

@@ -29,11 +29,14 @@ const Contact = () => {
               <div>
                 <h4>Head Office</h4>
                 <p>
-                  <strong>S R Legal Services Pvt Ltd</strong><br />
-                  Kharbas Complex, Sirsi Road,<br />
-                  Panchyawala, Jaipur, Rajasthan – 302034<br />
+              
+                  <strong>Wazariyo Services Pvt. Ltd.</strong><br />
+                  Orion Tower, Wazariyo Road,<br />
+                  atMyPlace, Jaipur, Rajasthan - 000000
+                
                   <a
-                    href="https://www.google.com/maps/place/S+R+Legal+Services+Pvt+Ltd/@26.9216592,75.7234849,17z"
+                    href="https://www.google.com/maps/place/Switzerland"
+
                     target="_blank"
                     rel="noreferrer"
                     className="map-link"
@@ -48,7 +51,7 @@ const Contact = () => {
               <i className="fas fa-phone-alt"></i>
               <div>
                 <h4>Phone</h4>
-                <p>+91 992-9112-467<br />+91 882-4197-135</p>
+                <p>+91 966-4316-574<br />+91 992-9043-765</p>
               </div>
             </div>
 
@@ -56,7 +59,7 @@ const Contact = () => {
               <i className="fas fa-envelope"></i>
               <div>
                 <h4>Email</h4>
-                <p>srlegal10@gmail.com</p>
+                <p>cp.workwith.me@gmail.com</p>
               </div>
             </div>
           </div>
@@ -88,7 +91,7 @@ const Contact = () => {
       <section className="map">
         <h2>Our Location</h2>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.610634578987!2d75.7234849!3d26.9216592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db49fb31ab8e3%3A0xa6bdb19498989851!2sS%20R%20Legal%20Services%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1730185600000!5m2!1sen!2sin"
+          src="https://www.google.com/maps?q=Switzerland&output=embed"
           width="100%"
           height="400"
           style={{ border: 0 }}

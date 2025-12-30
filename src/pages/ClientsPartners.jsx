@@ -79,7 +79,7 @@ const ClientsPartners = () => {
       <section className="apply-section">
         <h2>Work With Us </h2>
         <p className="section-subtitle">
-          Interested in collaborating with <strong>S R Legal Services Pvt Ltd</strong>?  
+          Interested in collaborating with <strong>Wazariyo Services Pvt Ltd</strong>?  
           Fill out the form below, and our team will get back to you shortly.
         </p>
 
@@ -118,7 +118,7 @@ const ClientsPartners = () => {
         <div className="testimonial-grid">
           <div className="testimonial-card">
             <p>
-              “S R Legal Services is one of the most reliable partners we’ve worked with.
+              “Wazariyo Services is one of the most reliable partners we’ve worked with.
               Their professionalism and recovery rate are unmatched.”
             </p>
             <h4>— Senior Manager, HDFC Bank</h4>
